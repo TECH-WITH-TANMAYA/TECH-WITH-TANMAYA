@@ -34,6 +34,4 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TECH-WITH-TANMAYA&layout=compact&theme=radical)
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parimadne&show_icons=true&locale=en" alt="parimadne" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parimadne&" alt="parimadne" /></p>
