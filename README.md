@@ -1,6 +1,6 @@
 
 
-![logo](IMG_754BB1F6875E-1.jpeg)
+
 <h1 align="center">Hi 👋, I am Tanmaya Kale</h1>
 <h3 align="center">A passionate coder from India</h3>
 
